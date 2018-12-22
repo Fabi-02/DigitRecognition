@@ -16,6 +16,7 @@ import javax.swing.JPanel;
  * @author flood2d / Fabian
  */
 
+@SuppressWarnings("serial")
 public class CharacterCanvas extends JPanel {
 	
 	private float pencilSize = 20;

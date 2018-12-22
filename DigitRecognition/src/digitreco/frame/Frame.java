@@ -22,6 +22,7 @@ import neurolib.utils.MathHelper;
  * @author Fabian
  */
 
+@SuppressWarnings("serial")
 public class Frame extends JPanel implements CharacterCanvas.DrawListener, ActionListener {
 
 	public static ArrayList<Double> result = new ArrayList<>();
